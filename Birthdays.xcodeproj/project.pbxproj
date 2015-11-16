@@ -405,7 +405,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appstud.Birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "90eb5d61-43e6-449a-81a4-4ddd387a7485";
+				PROVISIONING_PROFILE = "fc4babef-e922-464a-9110-5b6f017ea363";
 			};
 			name = Debug;
 		};
@@ -419,7 +419,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appstud.Birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "90eb5d61-43e6-449a-81a4-4ddd387a7485";
+				PROVISIONING_PROFILE = "fc4babef-e922-464a-9110-5b6f017ea363";
 			};
 			name = Release;
 		};
