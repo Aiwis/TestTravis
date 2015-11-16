@@ -403,6 +403,7 @@
 				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = Birthdays/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.appstud.Birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "90eb5d61-43e6-449a-81a4-4ddd387a7485";
 			};
@@ -416,6 +417,7 @@
 				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = Birthdays/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.appstud.Birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "90eb5d61-43e6-449a-81a4-4ddd387a7485";
 			};
